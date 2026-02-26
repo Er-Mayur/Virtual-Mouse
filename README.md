@@ -39,3 +39,4 @@ Each gesture maps to a traditional mouse event:
 
 ```bash
 pip install opencv-python mediapipe pyautogui numpy
+
